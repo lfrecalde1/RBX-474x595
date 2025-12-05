@@ -1,0 +1,13 @@
+Homework/HW1/src/data
+Homework/HW2/src/wi_augmentation
+Homework/HW2/src/wo_augmentation
+Homework/HW2/src/CIFAR10
+Homework/HW2/src/Checkpoints
+Homework/HW2/src/CheckpointsCondition
+
+Homework/HW2/src/data
+Homework/HW2/src/CIFAR10
+Homework/HW2/src/outputs
+
+Homework/HW2/src/CheckpointsWoAugmentation/linear/ckpt_149_.pt
+Homework/HW2/src/CheckpointsWoAugmentation/sine/ckpt_149_.pt
