@@ -30,7 +30,7 @@ def main(model_config=None):
         "data_generation": 10,
         "data_nrow": 1,
         "augmented_data": "No",
-        "schedule": "sine",
+        "schedule": "linear",
     }
     if model_config is not None:
         modelConfig = model_config
